@@ -1,2 +1,2 @@
 # git-github
-Basic
+This is just to learn Git & Github
